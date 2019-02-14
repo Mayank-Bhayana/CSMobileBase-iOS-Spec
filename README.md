@@ -1,2 +1,2 @@
 # CSMobileBase-iOS-Spec
-Pod Spec Repository for CSMobileBase-iOS (Public Access)
+Pod Spec Repository for CSMobileBase (Public Access)
